@@ -1,16 +1,18 @@
-## Hi there 👋
+### elias zheng
 
-<!--
-**ewzheng/ewzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm just a chill guy.
 
-Here are some ideas to get you started:
+```
+now     →  m.s. computer science @ carnegie mellon
+before  →  b.s. computer science @ university of arizona
+into    →  ai/ml, systems, homelabbing
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### selected work
+
+- **[bbob](https://github.com/ewzheng/bbob)** — a LLaVA-style vision-language TinyLLM that does object detection through pure language modeling, in ~50M params. [IEEE MASS 2025](https://ieeexplore.ieee.org/document/11206286).
+- **[zapme](https://github.com/ewzheng/zapme)** — posture corrector that gates a TENS unit off a webcam and a raspberry pi. built in 24 hours at hack arizona 2026.
+
+#### elsewhere
+
+[ewzheng.com](https://ewzheng.com) · [linkedin](https://www.linkedin.com/in/elias-zheng-67b0652b1) · [hugging face](https://huggingface.co/ewzheng)
