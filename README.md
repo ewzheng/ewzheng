@@ -15,4 +15,4 @@ into    →  ai/ml, systems, homelabbing
 
 #### elsewhere
 
-[ewzheng.com](https://ewzheng.com) · [linkedin](https://www.linkedin.com/in/elias-zheng-67b0652b1) · [hugging face](https://huggingface.co/ewzheng)
+[ewzheng.com](https://ewzheng.com) · [linkedin](https://www.linkedin.com/in/ewzheng) · [hugging face](https://huggingface.co/ewzheng)
