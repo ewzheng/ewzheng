@@ -3,7 +3,7 @@
 i'm just a chill guy.
 
 ```
-now     →  m.s. computer science @ carnegie mellon
+now     →  m.s. computer science @ carnegie mellon university
 before  →  b.s. computer science @ university of arizona
 into    →  ai/ml, systems, homelabbing, osu!
 ```
