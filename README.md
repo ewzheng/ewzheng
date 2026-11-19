@@ -5,7 +5,7 @@ i'm just a chill guy.
 ```
 now     →  m.s. computer science @ carnegie mellon
 before  →  b.s. computer science @ university of arizona
-into    →  ai/ml, systems, homelabbing
+into    →  ai/ml, systems, homelabbing, osu!
 ```
 
 #### selected work
